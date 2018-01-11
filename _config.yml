@@ -1,14 +1,14 @@
 title:             Eliehoenai
 email:             eliehoenai.84@gmail.com
-description:       On Yahweh are mine eyes
+description:       To Yahweh are mine eyes
 author:            Eliehoenai
 baseurl:           "/"
 url:               "https://eliehoenai.github.io"
 
 # Social Profiles
-twitter_username:  anything
-github_username:   anything
-facebook_username: anything
+#twitter_username:  anything
+#github_username:   anything
+#facebook_username: anything
 
 # Build settings
 markdown:          kramdown
