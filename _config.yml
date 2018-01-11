@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Eliehoenai
+email:             eliehoenai.84@gmail.com
+description:       On Yahweh are mine eyes
+author:            Eliehoenai
 baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+url:               "https://eliehoenai.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  anything
+github_username:   anything
+facebook_username: anything
 
 # Build settings
 markdown:          kramdown
